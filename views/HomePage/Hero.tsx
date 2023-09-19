@@ -21,9 +21,9 @@ export default function Hero() {
           Unlock streamlined efficiency, real-time analytics, and scalable capabilities, enabling organizational empowerment. Discover a new era of productivity.
         </Description>
         <CustomButtonGroup>
-          {/* <Button onClick={() => setIsModalOpened(true)}>
+          <Button onClick={() => setIsModalOpened(true)}>
             Subscribe to the newsletter <span>&rarr;</span>
-          </Button> */}
+          </Button>
           <NextLink href="#whitepaper" passHref>
             <Button >
               Features <span>&rarr;</span>
